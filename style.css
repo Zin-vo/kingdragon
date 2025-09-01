@@ -162,8 +162,8 @@ body {
 }
 
 .fb {
-  height: 50px;
-  width: 50px;
+  height: 30px;
+  width: 30px;
   border-radius: 50%;
 }
 
@@ -172,7 +172,7 @@ body {
 }
 
 .num {
-  font-size: 20px;
+  font-size: 10px;
   margin-left: 80px;
   margin-top: -50px;
   text-shadow: 0 0 10px white;
@@ -304,3 +304,4 @@ body {
   }
 
 }
+
