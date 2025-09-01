@@ -306,7 +306,7 @@ body {
   .fb {
     height: 40px;
     width: 40px;
-    margin-right: 300px;
+    margin-right: 100px;
   }
 
   .num {
@@ -320,21 +320,6 @@ body {
 
 
 
-@media (max-width: 480px) {
-  .fb {
-    height: 35px;
-    width: 35px;
-    margin-right: 300px;
-  }
-
-  .num {
-    font-size: 14px;
-    margin-left: 40px;
-    margin-top: -30px;
-    text-align: center;
-    display: block;
-  }
-}
 
 
 
