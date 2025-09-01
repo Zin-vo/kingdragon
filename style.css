@@ -303,12 +303,6 @@ body {
     font-size: 20px;
   }
 
-}
-
-
-
-/* Mobile responsiveness */
-@media (max-width: 768px) {
   .fb {
     height: 40px;
     width: 40px;
@@ -321,7 +315,10 @@ body {
     margin-top: -35px;
     text-align: left;
   }
+
 }
+
+
 
 @media (max-width: 480px) {
   .fb {
@@ -338,6 +335,7 @@ body {
     display: block;
   }
 }
+
 
 
 
