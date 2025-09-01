@@ -312,7 +312,7 @@ body {
   .fb {
     height: 40px;
     width: 40px;
-    margin-right: 100px;
+    margin-right: 300px;
   }
 
   .num {
@@ -327,7 +327,7 @@ body {
   .fb {
     height: 35px;
     width: 35px;
-    margin-right: 100px;
+    margin-right: 300px;
   }
 
   .num {
@@ -338,6 +338,7 @@ body {
     display: block;
   }
 }
+
 
 
 
