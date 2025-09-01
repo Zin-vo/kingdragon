@@ -161,9 +161,9 @@ body {
   box-shadow: 0 0 10px blueviolet;
 }
 
-.fb {
-  height: 30px;
-  width: 30px;
+.fbf {
+  height: 50px;
+  width: 50px;
   border-radius: 50%;
 }
 
@@ -171,8 +171,8 @@ body {
   box-shadow: 0 0 10px blueviolet;
 }
 
-.num {
-  font-size: 10px;
+.nums {
+  font-size: 20px;
   margin-left: 80px;
   margin-top: -50px;
   text-shadow: 0 0 10px white;
@@ -304,4 +304,5 @@ body {
   }
 
 }
+
 
