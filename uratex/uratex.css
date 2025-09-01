@@ -69,6 +69,7 @@ body {
 
 .uratexopt {
   display: flex;
+  padding-bottom: 5%;
 }
 
 .uimgs {
@@ -207,6 +208,7 @@ body {
     font-size: 14px;
   }
 }
+
 
 
 
