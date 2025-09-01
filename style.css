@@ -161,6 +161,22 @@ body {
   box-shadow: 0 0 10px blueviolet;
 }
 
+.fb {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+.fb:hover{
+  box-shadow: 0 0 10px blueviolet;
+}
+
+.num {
+  font-size: 20px;
+  margin-left: 80px;
+  margin-top: -50px;
+  text-shadow: 0 0 10px white;
+}
 
 
 @media screen and (max-width: 768px) {
@@ -286,4 +302,5 @@ body {
   .new h1 {
     font-size: 20px;
   }
+
 }
