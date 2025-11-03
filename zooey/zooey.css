@@ -94,7 +94,7 @@ body {
 
 /* Background image section */
 .uimgs {
-  height: 800px;
+  height: 500px;
   width: 100%;
   object-fit: cover;
   border-radius: 20px;
@@ -196,6 +196,7 @@ body {
     width: 100%;
   }
 }
+
 
 
 
