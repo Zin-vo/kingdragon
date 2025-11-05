@@ -81,6 +81,11 @@ body {
 }
 
 /* ==== HOMEPAGE SECTION ==== */
+.king {
+  font-family: cursive;
+  font-size: 30px;
+}
+
 .homepage {
   display: flex;
   align-items: center;
@@ -265,6 +270,7 @@ body {
     margin-left: 40px;
   }
 }
+
 
 
 
