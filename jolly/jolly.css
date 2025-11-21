@@ -169,6 +169,24 @@ body {
   font-size: 20px;
 }
 
+.buy {
+  margin-top: 5px;
+  background-color: aqua;
+  width: 50px;
+  padding: 3px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.buy:hover {
+  background-color: rgb(0, 204, 255);
+
+}
+
+.buy a {
+  text-decoration: none;
+}
+
 /* ===== Responsive Design ===== */
 @media screen and (max-width: 768px) {
   .navigation {
@@ -196,5 +214,6 @@ body {
     width: 100%;
   }
 }
+
 
 
