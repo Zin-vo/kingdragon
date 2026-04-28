@@ -145,6 +145,11 @@ body {
   transform: scale(1.02);
 }
 
+.num a{
+  text-decoration: none;
+  color: black;
+}
+
 /* ==== OPTIONS SECTION ==== */
 .options {
   background-color: rgb(245, 247, 250);
